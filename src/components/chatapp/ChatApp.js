@@ -3,7 +3,7 @@ import ChatWindow from "../chatwindow/ChatWindow";
 import ChatInput from "../chatinput/ChatInput";
 import "./ChatApp.css";
 
-const user_list = ["Alok", "Aman", "Ankit", "Pankaj", "Ramu"];
+const user_list = ["Alan", "Bob", "Carol", "Dean", "Elin"]
 const ChatApp = () => {
   
   const [messages, setMessages] = useState([]);
