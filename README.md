@@ -67,6 +67,6 @@ chat-app/
 
 Contributions are welcome! If you want to contribute to the project, please fork the repository and create a pull request.
 
-## License
+
 
 
